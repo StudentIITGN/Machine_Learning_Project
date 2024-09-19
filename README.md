@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/EYM6jbXw)
+
 # Assignment 1
 
 ## Total 22 marks -> would be scaled to 11 marks
@@ -99,5 +99,6 @@ Utilize apps like `Physics Toolbox Suite` from your smartphone to collect your d
 2. If you wish you can use the scikit-learn implementation of Decision Tree for the Mini-Project.
 
 "# sample" 
-#   s a m p l e  
+#   s a m p l e 
+ 
  
